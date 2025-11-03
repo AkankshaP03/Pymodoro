@@ -1,0 +1,14 @@
+{
+  "focus_level": "Custom",
+  "pomodoro_min": 25,
+  "short_min": 5,
+  "long_min": 15,
+  "custom_pomodoro_min": 23,
+  "custom_short_min": 1,
+  "custom_long_min": 13,
+  "auto_start_pomodoros": true,
+  "auto_start_breaks": false,
+  "alarm_index": 0,
+  "mute": false,
+  "long_break_every": 4
+}
